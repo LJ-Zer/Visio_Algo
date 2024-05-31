@@ -3,7 +3,7 @@
 ## The followiung branches are used to do a process of face cropped up to facial recognition.
 VisioAccelerAI is a capstone project. Its main goal is to inference a facial recognition system into an FPGA board to boost the computational capability of the model to have its application of real-time attendance monitoring system. There are two main branches for this repository.
 
-## Just follow the stepsfrom the README section of each branches
+## Just follow the steps from the README section of each branches
 
 # Visio_Train
 - This branch is a framework (files, scripts, dependencies) used to build and train a facial recognition model.
