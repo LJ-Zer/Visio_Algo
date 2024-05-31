@@ -52,11 +52,11 @@ pip install tensorflow-addons==0.19
 
 # 3.1 DOWNLOAD PROTOBUF 'protoc-3.12.4-win64'
 	- Google drive link: 
-	- Unzip and put it in the face-algo directory
+	- Unzip and put it in the Visio_Train directory
 
 # 3.2 DOWNLOAD THE MODELS FOLDER 
 	- Google drive link:
-	- Unzip and put it in the face-algo directory
+	- Unzip and put it in the Visio_Train directory
 
 # 4. INSTALL CUDA TOOLKIT AND CUDNN 
 	- You can use Anaconda terminal or Vscode terminal if you already integrate conda and vscode
@@ -147,8 +147,8 @@ pip install tensorflow-addons==0.19
 	- Activate the conda environment you use.
 	- For inferencing your QUANTIZED MODEL, just change the all of the variables 'detect.tflite' into 'detect_quant.tflite' inside the 'TFLite_detection_webcam.py'. 
 	  To use you quantize model.
-	- From the main directory of face-algo run:
-		*conda activate face-algo
+	- From the main directory of Visio_Train run:
+		*conda activate Visio_Train
 		*python custom_model_lite/TFLite_detection_webcam.py --modeldir=custom_model_lite
 		#### FOR QUANTIZED MODEL ITS FINE NOT TO DO THE INSTRUCTION ABOVE ### 
 		*python custom_model_lite/quan_TFLite_detection_webcam.py --modeldir=custom_model_lite 
