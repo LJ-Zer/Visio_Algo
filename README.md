@@ -9,12 +9,11 @@ For this branch, VisioAccelerAI used TensorFlow framework to train their facial 
 	- Minimum 8GB RAM
 	- Minimum 4GB VRAM
 
-# Important dependencies of this face-algo, check for all compatabilities.
+# Important dependencies of this Visio_Train repo, check for all compatabilities.
 python==3.9
 tensorflow==2.9
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 pip install tensorflow-addons==0.19
-
 
 # 1. Application needed
 	- VsCode 2017
