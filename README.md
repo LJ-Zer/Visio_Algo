@@ -1,6 +1,7 @@
 # Visio_Train 
 Credits to all the owners of the Scripts and Files especially to Tensorflow. This document is only used for educational purposes. This folder will be used in Capstone Design for a Face Recognition application. The document, scripts, and file segregation were written by LJ. He does not own any of the Python codes. If there are any, they are only used to automate the copying of files.
 
+For this branch, VisioAccelerAI used TensorFlow framework to train their facial recognition model. The following steps are crucial in development of a trained model from dependencies installation, datasets preparation, training and fine-tuning the model.
 
 # SYSTEM REQUIREMENTS
 	- Windows 10
