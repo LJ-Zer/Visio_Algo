@@ -1,6 +1,10 @@
 # Visio_Algo (Visio_Algorithm)
 VisioAccelerAI is a capstone project. Its main goal is to inference a facial recognition system into an FPGA board to boost the computational capability of the model to have its application of real-time attendance monitoring system. There are two main branches for this repository. The following branches are used to process face cropping up to facial recognition.
 
+# Inferencing this both of trained model in SBC (RPi, Jetson Nano, Linux OS)
+- Install Anaconda Environment
+- Instruction: https://phoenixnap.com/kb/install-anaconda-ubuntu
+
 # Just follow the steps from the README section of each branches!
 
 ## Visio_Train
