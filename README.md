@@ -15,33 +15,33 @@ For this branch, VisioAccelerAI used TensorFlow framework to train their facial 
 - conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 - pip install tensorflow-addons==0.19
 
-# 1. Application needed
+# 1. Application Needed
 	- VsCode 2017
 	- Git for Windows
 	- Nvidia Driver *if applicable
 	- Miniconda
 	- Cuda
 	- Cudnn
-	- Git bash in VSCode
+	- Git Bash in VSCode
 
-# 1.1. INSTALLATION OF CUDA TOOLKIT AND CUDNN
+# 1.1. Installation of Cuda ToolKit and Cudnn
 	- https://developer.nvidia.com/cuda-11.2.0-download-archive
 	- https://developer.nvidia.com/rdp/cudnn-archive
 
-# 1.2 INSTALLATION OF WGET
+# 1.2 Installation of Wget
 	- Download the latest wget.exe 
 	- Drag the wget.exe in C:\Windows\System32
 
 
 ***** REFERENCE: https://www.youtube.com/watch?v=-DurpWa3cGE&t=1s ***** 
 
-# 2. INTEGRATE ANACONDA AND VSCODE
-	- Navigate the anaconda directory using
-		*conda env list
-	- Copy the directory 
-	- In terminal of VsCode
-		*C:\Users\AI\miniconda3\Scripts\conda init
-		*C:\Users\AI\miniconda3\Scripts\conda init powershell
+# 2. Integrate Anaconda and VSCode
+- Navigate the anaconda directory using
+*conda env list
+- Copy the directory 
+- In terminal of VsCode
+*C:\Users\AI\miniconda3\Scripts\conda init
+*C:\Users\AI\miniconda3\Scripts\conda init powershell
 
 ***** REFERENCE: https://www.tensorflow.org/install/pip#windows-native ***** 
 
