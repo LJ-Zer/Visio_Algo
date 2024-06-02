@@ -9,4 +9,4 @@ VisioAccelerAI is a capstone project. Its main goal is to inference a facial rec
 ## Visio_Face
  - This branch contains a trained model to detect faces. Its main task is to extract faces from a frame, crop them, and save the cropped images into a folder named 'Visitor.' This ensures that the images fed to our trained model contain only faces, which increases the accuracy of facial recognition.
 
-### Working as of 02/06/24
+##### Working as of 02/06/24
