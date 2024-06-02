@@ -149,8 +149,8 @@ For this branch, VisioAccelerAI used TensorFlow framework to train their facial 
 - *To use you quantize model* From the main directory of Visio_Train run:
 - *conda activate Visio_Train
 - *python custom_model_lite/TFLite_detection_webcam.py --modeldir=custom_model_lite
-- *FOR QUANTIZED MODEL ITS FINE NOT TO DO THE INSTRUCTION ABOVE* 
+*FOR QUANTIZED MODEL ITS FINE NOT TO DO THE INSTRUCTION ABOVE* 
 - *python custom_model_lite/quan_TFLite_detection_webcam.py --modeldir=custom_model_lite
-- 
+  
 # 15. Measuring the GOPS of the trained model
 - *python 3_tflite-converter.py
